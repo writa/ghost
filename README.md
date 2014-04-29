@@ -1,5 +1,5 @@
 ghost
 =====
 
-Test library for golang
+Test library for golang  
 TODO: document
